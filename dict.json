@@ -1,0 +1,14 @@
+{
+    "star_type": {
+        "0": "Red Dwarf",
+        "1": "Brown Dwarf",
+        "2": "White Dwarf",
+        "3": "Main Sequence",
+        "4": "Super Giants",
+        "5": "Hyper Giants"
+    },
+    "constants":{
+        "L0": 3.828e-26,
+        "R0": 6.9551e8
+    }
+}
